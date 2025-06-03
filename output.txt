@@ -1,9 +1,1 @@
-Microsoft Windows [Version 10.0.19045.5854]
-(c) Microsoft Corporation. All rights reserved.
-
-C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Release>cmd /k whoami
-desktop-38tlosm\huzair khan
-
-C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Release>
-C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Release>
-C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Release>
+azuread\muhammadsaleem
