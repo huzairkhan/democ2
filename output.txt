@@ -1,1 +1,12 @@
-desktop-38tlosm\huzair khan
+ Volume in drive C has no label.
+ Volume Serial Number is 1280-0569
+
+ Directory of C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Release\net6.0\win-x64\publish
+
+03/06/2025  04:24 pm    <DIR>          .
+03/06/2025  04:24 pm    <DIR>          ..
+03/06/2025  11:55 am               189 democ2.dll.config
+03/06/2025  04:24 pm        18,838,261 democ2.exe
+03/06/2025  04:23 pm            10,948 democ2.pdb
+               3 File(s)     18,849,398 bytes
+               2 Dir(s)  132,275,118,080 bytes free
