@@ -1,9 +1,1 @@
-Microsoft Windows [Version 10.0.26100.4061]
-(c) Microsoft Corporation. All rights reserved.
-
-C:\Users\FarazAli\Downloads>cmd /k whoami
-azuread\farazali
-
-C:\Users\FarazAli\Downloads>
-C:\Users\FarazAli\Downloads>
-C:\Users\FarazAli\Downloads>
+desktop-38tlosm\huzair khan
