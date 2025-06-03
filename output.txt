@@ -1,1 +1,7 @@
+Microsoft Windows [Version 10.0.19045.5854]
+(c) Microsoft Corporation. All rights reserved.
 
+C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug>cmd /k 
+C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug>
+C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug>
+C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug>
