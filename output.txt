@@ -1,9 +1,9 @@
-Microsoft Windows [Version 10.0.15063]
-(c) 2017 Microsoft Corporation. All rights reserved.
+Microsoft Windows [Version 10.0.26100.4061]
+(c) Microsoft Corporation. All rights reserved.
 
-C:\Users\steveher\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\WLD4NMSP>cmd /k whoami
-johmurphy\steveher
+C:\Users\FarazAli\Downloads>cmd /k whoami
+azuread\farazali
 
-C:\Users\steveher\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\WLD4NMSP>
-C:\Users\steveher\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\WLD4NMSP>
-C:\Users\steveher\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\WLD4NMSP>
+C:\Users\FarazAli\Downloads>
+C:\Users\FarazAli\Downloads>
+C:\Users\FarazAli\Downloads>
