@@ -1,8 +1,21 @@
 Microsoft Windows [Version 10.0.19045.5854]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug>cmd /k whoami
-desktop-38tlosm\huzair khan
+C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug>cmd /k dir
+ Volume in drive C has no label.
+ Volume Serial Number is 1280-0569
+
+ Directory of C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug
+
+03/06/2025  03:20 pm    <DIR>          .
+03/06/2025  03:20 pm    <DIR>          ..
+03/06/2025  03:20 pm             8,704 democ2.exe
+03/06/2025  03:20 pm               189 democ2.exe.config
+03/06/2025  03:20 pm            22,016 democ2.pdb
+08/01/2025  10:25 pm         1,399,296 Octokit.dll
+08/01/2025  10:25 pm         2,588,224 Octokit.xml
+               5 File(s)      4,018,429 bytes
+               2 Dir(s)  134,830,665,728 bytes free
 
 C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug>
 C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug>
