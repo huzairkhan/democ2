@@ -1,7 +1,133 @@
 Microsoft Windows [Version 10.0.19045.5854]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug>cmd /k 
+C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug>cmd /k ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-38TLOSM
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : A0-8C-FD-1A-17-0D
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter OpenVPN Wintun:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Wintun Userspace Tunnel
+   Physical Address. . . . . . . . . : 
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter OpenVPN TAP-Windows6:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : TAP-Windows Adapter V9
+   Physical Address. . . . . . . . . : 00-FF-AB-A9-CA-9E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter OpenVPN Data Channel Offload:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : OpenVPN Data Channel Offload
+   Physical Address. . . . . . . . . : 
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : F0-D5-BF-3B-38-D3
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : F2-D5-BF-3B-38-D2
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-01
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::b92:8e8c:bcd1:2fe3%14(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.96.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Tuesday, 3 June 2025 11:36:04 am
+   Lease Expires . . . . . . . . . . : Tuesday, 3 June 2025 1:36:04 pm
+   Default Gateway . . . . . . . . . : 
+   DHCP Server . . . . . . . . . . . : 192.168.96.254
+   DHCPv6 IAID . . . . . . . . . . . : 704663638
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-B0-C0-7F-A0-8C-FD-1A-17-0D
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-08
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c194:90b9:929a:ee6a%22(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.116.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Tuesday, 3 June 2025 11:36:08 am
+   Lease Expires . . . . . . . . . . : Tuesday, 3 June 2025 1:36:04 pm
+   Default Gateway . . . . . . . . . : 
+   DHCP Server . . . . . . . . . . . : 192.168.116.254
+   DHCPv6 IAID . . . . . . . . . . . : 721440854
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-B0-C0-7F-A0-8C-FD-1A-17-0D
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   Primary WINS Server . . . . . . . : 192.168.116.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 8260
+   Physical Address. . . . . . . . . : F0-D5-BF-3B-38-D2
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::66b5:6558:e333:c3e9%8(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.20.228(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Tuesday, 3 June 2025 11:40:51 am
+   Lease Expires . . . . . . . . . . : Wednesday, 4 June 2025 11:36:07 am
+   Default Gateway . . . . . . . . . : 192.168.20.1
+   DHCP Server . . . . . . . . . . . : 192.168.20.1
+   DHCPv6 IAID . . . . . . . . . . . : 99669439
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-B0-C0-7F-A0-8C-FD-1A-17-0D
+   DNS Servers . . . . . . . . . . . : 8.8.8.8
+                                       8.8.4.4
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
 C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug>
 C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug>
 C:\Users\Huzair Khan\source\repos\democ2\democ2\bin\Debug>
