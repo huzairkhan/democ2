@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 38C0-A679
-
- Directory of C:\Users\FarazAli\Downloads\github
-
-04/06/2025  10:59 am    <DIR>          .
-04/06/2025  10:59 am    <DIR>          ..
-04/06/2025  10:50 am         6,185,111 github.exe
-               1 File(s)      6,185,111 bytes
-               2 Dir(s)  177,332,150,272 bytes free
+kali
