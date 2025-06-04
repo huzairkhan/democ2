@@ -1,11 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 7CAA-5ECE
-
- Directory of C:\Users\SOCANALYST\Downloads
-
-06/04/2025  05:04 PM    <DIR>          .
-06/04/2025  05:04 PM    <DIR>          ..
-06/03/2025  03:24 PM        18,838,261 democ2.exe
-06/04/2025  05:03 PM         7,226,088 democ2.rar
-               2 File(s)     26,064,349 bytes
-               2 Dir(s)  83,885,047,808 bytes free
+ajmbnk\socanalyst
