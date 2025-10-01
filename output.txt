@@ -1,18 +1,8 @@
 Microsoft Windows [Version 10.0.26100.6584]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64\publish>dir
- Volume in drive C has no label.
- Volume Serial Number is CA20-5081
-
- Directory of C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64\publish
-
-01/10/2025  04:16 pm    <DIR>          .
-01/10/2025  04:16 pm    <DIR>          ..
-01/10/2025  04:16 pm        71,960,365 MyApp.exe
-01/10/2025  04:16 pm            11,336 MyApp.pdb
-               2 File(s)     71,971,701 bytes
-               2 Dir(s)  41,150,119,936 bytes free
+C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64\publish>whoami
+azuread\huzairkhan
 
 C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64\publish>
 C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64\publish>
