@@ -201,7 +201,7 @@ C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64>dir
 20/08/2025  03:33 am            30,992 System.Xml.XPath.XDocument.dll
 20/08/2025  03:27 am            16,696 WindowsBase.dll
              190 File(s)     79,035,860 bytes
-               3 Dir(s)  37,254,508,544 bytes free
+               3 Dir(s)  37,254,983,680 bytes free
 
 C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64>
 C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64>
