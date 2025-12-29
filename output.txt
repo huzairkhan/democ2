@@ -1,8 +1,8 @@
-Microsoft Windows [Version 10.0.26100.6584]
+Microsoft Windows [Version 10.0.26200.7462]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\MuhammadSaleem\Downloads>whoami
-azuread\muhammadsaleem
+C:\Users\HuzairKhan\Downloads>whoami
+azuread\huzairkhan
 
-C:\Users\MuhammadSaleem\Downloads>
-C:\Users\MuhammadSaleem\Downloads>
+C:\Users\HuzairKhan\Downloads>
+C:\Users\HuzairKhan\Downloads>
