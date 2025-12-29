@@ -1,8 +1,223 @@
 Microsoft Windows [Version 10.0.26200.7462]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\HuzairKhan\Downloads>whoami
-azuread\huzairkhan
+C:\Users\HuzairKhan\Downloads>dir
+ Volume in drive C has no label.
+ Volume Serial Number is CA20-5081
+
+ Directory of C:\Users\HuzairKhan\Downloads
+
+29/12/2025  10:32 pm    <DIR>          .
+17/12/2025  12:57 am    <DIR>          ..
+03/07/2025  04:59 pm         5,386,240 .Ajman-Bank - Red Teaming.ctb~
+16/05/2025  10:00 am         5,386,240 .Ajman-Bank - Red Teaming.ctb~~
+08/12/2025  12:02 pm        43,794,432 .ubl.ctb~
+05/12/2025  01:24 am        43,794,432 .ubl.ctb~~
+05/12/2025  01:09 am        43,794,432 .ubl.ctb~~~
+19/12/2025  12:53 pm         4,325,376 .WIFI-Pentest.ctb~~~
+16/04/2025  03:38 pm             7,992 0484562807a97172-s.p.woff2
+04/07/2025  06:46 pm       107,058,724 100MB-TESTFILE.ORG.pdf
+21/10/2025  03:32 pm            22,083 AD.docx
+10/12/2025  05:09 pm            45,056 ADTestingAttackVectors.ctb
+22/07/2025  10:49 am         1,478,112 AD_Config_Review_Scan_xldly3.csv
+22/07/2025  10:36 am         1,478,112 AD_Config_Review_Scan_zhesmz.csv
+22/10/2025  05:00 pm        23,385,740 AE2405AJM02049-40 - Ajman Bank  Red Team Assessment - Draft Report  V1.1(comments).pdf
+22/10/2025  09:58 am        23,455,134 AE2405AJM02049-40 - Ajman Bank - Red Team Assessment - Draft Report - V1.0 (1).pdf
+16/10/2025  10:58 am        23,455,134 AE2405AJM02049-40 - Ajman Bank - Red Team Assessment - Draft Report - V1.0.pdf
+22/10/2025  05:20 pm        10,236,163 AE2405AJM02049-49 - Ajman Bank - Azure Cloud Assessment Activity - 2025 - Draft Report - V1.0.pdf
+25/08/2025  11:45 pm           918,664 AE2406AJM02153-37 - Ajman Bank - Social Engineering Report v1.0 4.pdf
+03/02/2025  03:24 pm             1,488 AFS.csv
+27/06/2025  03:10 pm         9,167,169 afs_huzair.rar
+15/11/2025  04:59 pm         1,227,676 Agenda-Securing-Your-Digital-Kingdom.pptx
+30/10/2025  02:09 pm           142,924 Ajman Bank - ROE - Red Teaming (1).pdf
+22/10/2025  09:54 am           142,924 Ajman Bank - ROE - Red Teaming.pdf
+13/10/2025  10:14 am        15,935,761 Ajman Bank - Red Team Assessment(Report) RA Version.docx
+03/07/2025  01:18 pm            15,925 Ajman Bank_External Network Penetration Testing - 2025 - Q3_P-2025-728_Findings_20250703.xlsx
+03/07/2025  04:01 pm             7,748 Ajman Blac box findings.csv
+03/07/2025  04:59 pm         5,386,240 Ajman-Bank - Red Teaming.ctb
+14/04/2025  02:30 pm        42,144,522 Alinma Bank Red Teaming Report (Updated) 2.docx
+29/08/2025  10:35 am           626,562 allfiles.zip
+14/11/2024  10:40 am         4,993,864 AnyDesk.exe
+15/12/2025  06:59 pm             8,446 AppraisalObjectives.pdf
+18/11/2025  10:46 pm            64,417 Asset Inventory v1.2- UBL Pakistan.xlsx
+25/07/2025  03:01 pm         1,860,622 audit-plugin-mysql-8.0-1.2.3-38-linux-x86_64.zip
+07/04/2025  09:45 pm        54,782,880 az-500.pdf
+18/09/2025  03:45 pm    <DIR>          azure-cli-2.77.0-x64
+19/12/2025  05:10 pm            10,837 banner.html
+02/10/2025  10:43 am            71,287 BH2404API01973 - API CORP - Internal VA Excel Sheet .xlsx
+01/10/2025  04:27 pm         3,509,764 BH2404API01973-31 - API CORP - Internal Vulnerability Assessment - Riyadh - Draft Report 2.docx
+29/09/2025  04:34 pm        15,898,735 BH2507G1C03395-43 - Gulf One Capital_Internal Network Penetration Testing - 2025 - Final Report - V2.1.pdf
+05/06/2025  10:18 am         2,084,738 Breaching Defenses.pptx
+17/09/2025  12:19 pm            28,160 Bug_Bounty_Invoice_Bank_Details.docx
+31/10/2025  07:43 pm            12,747 BulkEmployeeMOL.xlsx
+04/11/2025  11:00 am               939 cacert.der
+24/03/2025  10:11 am           314,931 Checkout - CWL _ Advanced Cyber Attack & Detection Learning Platform.pdf
+17/09/2025  04:16 pm         4,257,396 CIS_Microsoft_Azure_Foundations_Benchmark_v4.0.0.pdf
+10/09/2025  04:44 pm            15,054 cleaned_hosts.txt
+04/05/2025  11:13 pm    <DIR>          Compressed
+04/03/2025  03:59 pm             4,884 csrf_burp
+17/01/2025  04:58 pm             1,888 CVE-2012-1675-master.zip
+07/08/2025  10:36 am            95,456 Cybernet_ips_scan_all_ports.xml
+15/10/2025  04:08 pm        23,455,134 CyberShield Command by Risk Associates_Ajman Bank_Red Team Engagement 2025_AE2405AJM02049-40_1_20251015 11_08.pdf
+29/08/2025  10:16 am         6,386,276 CyberShield Command by Risk Associates_APICorp_Internal Network Penetration Test - BIOS_BH2404API01973-43_1_20250828 07_10.pdf
+24/10/2025  05:52 pm         8,091,288 CyberShield Command by Risk Associates_Paypro_Infrastructure Penetration Testing_PK2406PYP02171-34_1_20251024 12_52.pdf
+10/10/2025  10:09 am         4,094,974 CyberShield Command by Risk Associates_Sadapay_External Network & Cloud Security Assessment_PK2305SDP110-49_6_20250916 06_19.pdf
+12/09/2025  12:19 am           295,073 DefaultDocument.pdf
+04/06/2025  05:35 pm         6,614,940 democ2 4.7z
+04/06/2025  05:36 pm         8,580,114 democ2 4.zip
+01/10/2025  01:06 pm        18,838,261 democ2 6.exe
+01/10/2025  01:12 pm             2,884 democ2.cs
+07/01/2025  05:41 pm           115,332 desc.png
+01/10/2025  03:15 pm            36,630 detailed_vulnerabilities(BIOS-External) 5.docx
+01/10/2025  03:14 pm            70,374 detailed_vulnerabilities(BIOS-internal).docx
+01/10/2025  03:13 pm            43,753 detailed_vulnerabilities(KSA).docx
+01/10/2025  03:14 pm            40,696 detailed_vulnerabilities(STC).docx
+05/08/2025  12:21 pm           129,732 Details.pdf
+30/05/2025  12:27 pm    <DIR>          Documents
+20/05/2025  01:04 pm         2,177,867 donut-master.zip
+12/12/2025  04:01 pm           153,537 Employee Appraisal Form.pdf
+25/08/2025  06:37 pm            12,829 Employee Information staff.xlsx
+07/05/2025  04:20 pm         1,244,338 EP Nodes _ikr7kv 2.csv
+07/05/2025  04:31 pm         2,166,460 Euronet - Internal Vulnerability Assessment Report 1 (1).docx
+21/04/2025  11:31 am               765 evil
+17/12/2025  01:29 am    <DIR>          EvilPortal_SBP_PHP
+17/12/2025  01:29 am         1,374,029 EvilPortal_SBP_PHP.zip
+22/12/2025  02:36 pm             3,941 EX110060ExpenseClaimDetail.pdf
+01/10/2025  03:43 pm    <DIR>          exe
+18/06/2025  11:56 am             9,869 FBL Evidence of TLS 1.1.pdf
+06/10/2025  11:36 am    <DIR>          FWs
+02/06/2025  01:30 pm    <DIR>          Gcc 1 ip
+29/12/2025  10:34 pm        71,960,365 github 1.exe
+01/10/2025  12:21 pm         6,186,562 github1.exe
+09/10/2025  03:30 pm        63,050,240 GlobalProtect64.msi
+03/06/2025  11:21 am             1,290 gmail_aliases.txt
+24/07/2025  01:28 pm           127,589 Golden chip - Huzair_m2n6b2.pdf
+24/02/2025  11:25 am    <DIR>          hashcat-6.2.6
+18/11/2025  10:38 pm        84,063,576 hp_LJ1020_Full_Solution-v2012_918_1_57980.exe
+27/10/2025  06:35 pm        47,964,040 httparchive_subdomains_2025_10_27.txt
+11/07/2025  03:08 pm             4,523 huzair.ovpn
+26/10/2025  11:14 am           171,671 Huzair_CV.pdf
+25/11/2025  09:04 pm            75,003 Huzair_CV_updated(T).docx
+05/08/2025  12:28 pm         8,361,227 image-doc.pdf
+24/03/2025  11:31 am            18,137 ImportAssetsSampleFile (2) 2.xlsx
+07/01/2025  06:15 pm            10,655 ImportAssetsSampleFile (2).xlsx
+18/12/2025  11:40 am            10,805 index (1).php
+27/11/2025  07:07 pm        16,770,374 Information Security Awareness Training for Information Technology.ppsx
+27/11/2025  07:07 pm        16,770,039 Information Security Awareness Training for Information Technology.pptx
+27/11/2025  04:50 pm        16,999,725 Information Security Awareness Training(updated).ppsx
+27/11/2025  04:48 pm        16,999,726 Information Security Awareness Training(updated).pptx
+04/11/2025  10:18 am            38,073 Internal scope and credentials.docx
+15/10/2025  06:10 pm            21,497 Invoice.docx
+20/09/2025  01:33 pm            54,914 Invoice.pdf
+15/10/2025  06:10 pm            54,659 Invoice_251011_135938.pdf
+05/11/2025  10:50 am        19,398,921 ipscan-3.9.2-setup.exe
+30/11/2025  02:00 pm            75,387 Izaan_CV_updated.docx
+30/11/2025  02:15 pm           141,162 Izaan_CV_updated.pdf
+26/03/2025  01:49 pm        50,453,449 jython-standalone-2.7.4.jar
+22/10/2025  02:59 pm            10,045 kamelpay_Penntesting_admin.ovpn
+05/08/2025  12:29 pm        38,589,556 large-doc.pdf
+16/04/2025  05:01 pm             6,000 LFI 1.txt
+19/12/2025  05:10 pm           359,785 logo.html
+06/11/2025  03:47 pm         1,142,246 main.514b4dcf.js (1).map
+31/10/2025  06:47 pm         1,154,034 master dirsearch v3 1 3 1 1.txt
+14/12/2025  10:40 pm        11,993,870 mk7_recovery_1.0.1.bin
+26/10/2025  02:19 pm            16,000 Motivation_Letter.docx
+26/10/2025  02:19 pm            38,269 Motivation_Letter.pdf
+27/10/2025  05:03 pm            32,624 Muhammad-Noman-CV.docx
+25/11/2025  12:28 pm           447,935 Muhammad-Saud-Resume.pdf
+09/04/2025  10:26 am    <DIR>          Music
+01/10/2025  04:16 pm    <DIR>          MyApp
+25/08/2025  04:07 pm            16,284 namecheap-order-172016928.pdf
+24/09/2025  10:19 pm            45,272 nc64.exe
+08/11/2025  05:45 pm        95,818,240 Nessus-10.10.1-x64.msi
+12/09/2025  01:01 pm       101,380,608 Nessus-10.9.3-x64.msi
+26/07/2025  05:33 pm           474,736 NTS 10AM Students.pdf
+27/10/2025  03:52 pm            13,168 nuss-ip-schema 1_updated 1.xlsx
+11/12/2025  11:03 am         2,525,187 Offsec Team Profiles.pptx
+24/09/2025  12:43 pm       115,945,472 openvpn-connect-3.8.0.4528_signed.msi
+19/05/2025  01:28 pm        28,318,363 OSEP.pdf
+22/07/2025  05:51 pm           145,191 OUTSIDE FW SCAN29 May 2025 .html
+04/09/2025  01:43 am               896 payload.pdf
+12/09/2025  01:27 am           211,870 Payslip.pdf
+25/08/2025  04:47 pm            11,979 Pending Project Bonus Sheet - Huzair Khan (1).xlsx
+12/06/2025  10:51 am            11,486 Pending Project Bonus Sheet - Huzair Khan.xlsx
+07/03/2025  10:08 am         1,456,718 Pentesting active directory.pdf
+19/12/2025  12:17 pm            10,713 php (1).txt
+19/12/2025  12:17 pm            10,713 php.txt
+24/10/2025  10:43 am         1,285,371 PK0122RCP0428-29 - Rapid Compute - Internal Network Segmentation Testing Activity - Final Report v2.0.pdf
+23/10/2025  06:38 pm           759,807 PK0321EUR0242-29 - Euronet Pakistan - Internal Network Segmentation Testing Activity - Final Report - V.2.0.pdf
+27/11/2025  10:32 am         1,486,483 PK0621UBL0290-29 - UBL - Qatar-Internal Network Segmentation Testing - Final Report v2.0.pdf
+04/12/2025  11:40 am           624,950 PK0621UBL0290-29 - UBL Pakistan - Internal Network Segmentation Testing Activity - Final Report v1.0.pdf
+14/12/2025  11:34 pm        35,316,938 PK0621UBL0290-44 - United Bank Limited - Internal Network Penetration Testing (Pakistan) - 2025 - Draft Report -  V1.0.pdf
+26/11/2025  11:21 am        10,188,879 PK0621UBL0290-44 - United Bank Limited - Internal Network Penetration Testing (Qatar) - 2025 - Draft Report - V1.0.pdf
+08/10/2025  10:55 am         1,707,917 PK2311COV01527-43 - Covalent - Internal Network Penetration Test - Draft Report v1.0.pdf
+07/05/2025  03:13 pm         3,667,345 PK2403EUR01897-31 - Euronet Pvt Ltd - 4th Quarter - Internal Vulnerability Assessment - Draft Report v1.0.docx
+24/12/2025  05:48 pm         1,101,173 PK2412SBP02739-41 - State Bank of Pakistan - Wireless Security Assessment - Draft Report - V1.0.pdf
+05/07/2025  07:14 pm         7,138,784 platform-tools-latest-windows.zip
+18/12/2025  12:12 pm    <DIR>          portal 1
+18/12/2025  12:12 pm           924,959 portal 1.zip
+22/06/2025  05:01 pm    <DIR>          Programs
+10/05/2025  03:21 pm        10,411,224 psiphon3.exe
+26/03/2025  01:57 pm        10,251,480 psiphon3.exe.orig
+09/09/2025  03:46 pm            52,442 PTA  DRS.pdf
+15/09/2025  12:19 pm            39,538 Purchase  Expense Authorization Form.docx
+03/02/2025  01:56 pm         4,558,969 PwnFox.jar
+13/03/2025  09:28 am         4,372,010 Quick Reference Guide to the AZ-500 Certification.pdf
+22/10/2025  02:36 pm           140,018 RA Access Details .pdf
+23/01/2025  12:12 pm            10,270 RA filtered remaining IPs.xlsx
+12/06/2025  03:10 pm    <DIR>          RAT
+26/06/2025  12:13 pm         2,540,795 Rate Limit Bypass Via Race Condition.pdf
+12/10/2025  04:42 pm            29,696 RA_Scanning_Plan_V1.0.xlsx
+16/05/2025  10:02 am               546 RECOVERY-CODES-huzair.txt
+11/05/2025  12:13 am           117,930 recursively-cat-all-3-output.txt
+05/05/2025  01:20 pm         5,545,929 Red-Team-Analyst-Course-Materials.pdf
+24/03/2025  03:30 pm            36,132 Reference Check - Form.docx
+13/01/2025  12:48 pm            42,079 report.pdf
+12/12/2025  06:21 pm           220,715 Request Detail.pdf
+04/11/2025  11:00 pm         5,283,547 Reset Password.mp4
+17/11/2025  02:07 pm            96,975 ROE - Penetration Testing.docx
+14/01/2025  06:30 pm               271 sample1.php
+14/01/2025  06:40 pm             1,803 SampleFile.aspx
+12/09/2025  12:54 am            10,422 SCB_IBFT.xls
+18/11/2025  11:30 am            21,387 scope_status.xlsx
+10/12/2025  02:20 pm            19,641 segmentation_5thfloor.xlsx
+15/12/2025  07:21 pm           252,605 Self Appraisal(View Only).pdf
+18/09/2025  12:01 am           259,903 SMTP VRFY User Enumeration.pdf
+15/11/2025  01:06 pm        16,104,679 Social Engineering 3.pptx
+21/11/2025  12:27 pm        16,890,299 Social_Engineering.ppsx
+21/11/2025  03:44 pm        16,890,125 Social_Engineering.pptx
+01/12/2025  05:18 pm             4,301 SSPDecoder.py
+12/09/2025  01:07 am                32 strFile.txt
+05/11/2025  10:54 am         1,394,944 tailscale-setup-1.90.6.exe
+05/11/2025  10:56 am               163 tailscale.reg
+22/12/2025  02:33 pm            76,661 TCS-Recipt.jpeg
+23/05/2025  03:10 pm    <DIR>          Teams
+23/05/2025  03:19 pm        15,299,461 Teams.rar
+05/11/2025  03:53 pm            33,301 Travel Authorization Form V1.1.xlsx
+29/01/2025  06:31 pm            21,865 ubl internal scope (2) (1).xlsx
+04/12/2025  04:26 pm    <DIR>          ubl pak internal 2025
+04/12/2025  04:25 pm       121,819,285 ubl pak internal 2025.rar
+13/11/2025  05:25 pm        39,584,401 UBL Qatar Scope.rar
+08/12/2025  12:02 pm        44,179,456 ubl.ctb
+16/07/2025  03:42 pm           379,554 users.txt
+23/10/2025  03:00 pm               877 VAPT Details.txt
+09/04/2025  10:26 am    <DIR>          Video
+20/05/2025  10:09 am       108,271,672 VSCodeUserSetup-x64-1.100.2.exe
+24/12/2025  03:00 pm         9,097,216 WIFI-Pentest (updated) (1).ctb
+22/12/2025  02:07 pm         9,097,216 WIFI-Pentest (updated).ctb
+22/12/2025  02:07 pm         4,325,376 WIFI-Pentest.ctb
+15/01/2025  03:45 pm         6,736,746 Windows_PrivEsc.pptx
+14/12/2025  03:44 pm           391,633 WIRELESS PENETRATION TESTING METHODOLOGY.pdf
+26/10/2025  02:52 pm           126,891 wp2474900.jpg
+26/10/2025  02:46 pm           106,815 wp6402706.jpg
+06/11/2025  02:43 pm    <DIR>          XSS files
+13/08/2025  01:16 pm            62,104 XSS files.rar
+21/04/2025  11:59 am               178 xss.png
+05/12/2025  04:24 pm    <DIR>          Zephyr
+05/12/2025  04:24 pm        18,565,040 Zephyr.zip
+04/07/2025  05:19 pm           255,501 _954023_Vulnerability_Report_-_sweet32_bitvise.com.pdf
+             189 File(s)  1,942,982,740 bytes
+              20 Dir(s)  37,287,018,496 bytes free
 
 C:\Users\HuzairKhan\Downloads>
 C:\Users\HuzairKhan\Downloads>
