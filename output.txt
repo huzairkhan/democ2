@@ -217,7 +217,7 @@ C:\Users\HuzairKhan\Downloads>dir
 05/12/2025  04:24 pm        18,565,040 Zephyr.zip
 04/07/2025  05:19 pm           255,501 _954023_Vulnerability_Report_-_sweet32_bitvise.com.pdf
              189 File(s)  1,942,982,740 bytes
-              20 Dir(s)  37,287,018,496 bytes free
+              20 Dir(s)  37,286,940,672 bytes free
 
 C:\Users\HuzairKhan\Downloads>
 C:\Users\HuzairKhan\Downloads>
