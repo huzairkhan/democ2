@@ -1,15 +1,15 @@
 Microsoft Windows [Version 10.0.26200.7462]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\secureyes.red\Downloads>ping admin.tamara.co
+C:\Users\secureyes.red\Downloads>ping 10.200.20.26
 
-Pinging admin.tamara.co [10.90.0.2] with 32 bytes of data:
+Pinging 10.200.20.26 with 32 bytes of data:
 General failure.
 General failure.
 General failure.
 General failure.
 
-Ping statistics for 10.90.0.2:
+Ping statistics for 10.200.20.26:
     Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
 
 C:\Users\secureyes.red\Downloads>
