@@ -1,18 +1,8 @@
 Microsoft Windows [Version 10.0.26200.7462]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64\publish>whoami /priv
+D:\Penetration-Testing\Projects\Red Teaming\Dystopia 2.0>whoami
+azuread\asadiqbal
 
-PRIVILEGES INFORMATION
-----------------------
-
-Privilege Name                Description                          State   
-============================= ==================================== ========
-SeShutdownPrivilege           Shut down the system                 Disabled
-SeChangeNotifyPrivilege       Bypass traverse checking             Enabled 
-SeUndockPrivilege             Remove computer from docking station Disabled
-SeIncreaseWorkingSetPrivilege Increase a process working set       Disabled
-SeTimeZonePrivilege           Change the time zone                 Disabled
-
-C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64\publish>
-C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64\publish>
+D:\Penetration-Testing\Projects\Red Teaming\Dystopia 2.0>
+D:\Penetration-Testing\Projects\Red Teaming\Dystopia 2.0>
