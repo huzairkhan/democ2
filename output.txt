@@ -1,16 +1,39 @@
 Microsoft Windows [Version 10.0.26200.7462]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\secureyes.red\Downloads>ping 10.200.20.26
+C:\Users\secureyes.red\Downloads>ipconfig
 
-Pinging 10.200.20.26 with 32 bytes of data:
-General failure.
-General failure.
-General failure.
-General failure.
+Windows IP Configuration
 
-Ping statistics for 10.200.20.26:
-    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Unknown adapter Tamara-VPN:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::101a:7cae:9f5:acfb%34
+   IPv4 Address. . . . . . . . . . . : 10.66.200.61
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.66.200.62
+
+Ethernet adapter Ethernet 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : dgo1fxxvbjoungskvv2mi1gihb.dxbx.internal.cloudapp.net
+   Link-local IPv6 Address . . . . . : fe80::3c79:c834:19b9:b875%15
+   IPv4 Address. . . . . . . . . . . : 10.0.0.4
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.0.0.1
+
+Ethernet adapter vEthernet (WSL (Hyper-V firewall)):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2a03:309c:453c:bd0e%29
+   IPv4 Address. . . . . . . . . . . : 172.19.240.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
 
 C:\Users\secureyes.red\Downloads>
 C:\Users\secureyes.red\Downloads>
