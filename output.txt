@@ -1,8 +1,8 @@
 Microsoft Windows [Version 10.0.26200.7462]
 (c) Microsoft Corporation. All rights reserved.
 
-D:\Penetration-Testing\Projects\Red Teaming\Dystopia 2.0>whoami
-azuread\asadiqbal
+C:\Users\secureyes.red\Downloads>whoami
+windows-redteam\secureyes.red
 
-D:\Penetration-Testing\Projects\Red Teaming\Dystopia 2.0>
-D:\Penetration-Testing\Projects\Red Teaming\Dystopia 2.0>
+C:\Users\secureyes.red\Downloads>
+C:\Users\secureyes.red\Downloads>
