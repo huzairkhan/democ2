@@ -1,8 +1,8 @@
 Microsoft Windows [Version 10.0.26200.7462]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64>whoami
-azuread\huzairkhan
+C:\Users\AqsaIftikhar\Desktop>whoami
+azuread\aqsaiftikhar
 
-C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64>
-C:\Users\HuzairKhan\Downloads\MyApp\bin\Release\net9.0\win-x64>
+C:\Users\AqsaIftikhar\Desktop>
+C:\Users\AqsaIftikhar\Desktop>
