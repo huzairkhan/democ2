@@ -1,11 +1,11 @@
 
-PRIVILEGES INFORMATION
-----------------------
+Pinging 192.168.0.1 with 32 bytes of data:
+Reply from 192.168.0.1: bytes=32 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=4ms TTL=64
 
-Privilege Name                Description                          State   
-============================= ==================================== ========
-SeShutdownPrivilege           Shut down the system                 Disabled
-SeChangeNotifyPrivilege       Bypass traverse checking             Enabled 
-SeUndockPrivilege             Remove computer from docking station Disabled
-SeIncreaseWorkingSetPrivilege Increase a process working set       Disabled
-SeTimeZonePrivilege           Change the time zone                 Disabled
+Ping statistics for 192.168.0.1:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 4ms, Average = 3ms
