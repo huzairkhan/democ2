@@ -1,1 +1,1 @@
-whoami /priv
+whoami
